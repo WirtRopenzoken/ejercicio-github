@@ -4,4 +4,5 @@
 
 1.
 2.
-3.
+3.analizar outliers
+4.hacer descriptivos
